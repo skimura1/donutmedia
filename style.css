@@ -1,0 +1,35 @@
+.ui.message {
+  background: black;
+  color: white;
+  padding: 1em;
+  border: 2px solid white;
+  text-align: center;
+  font-size: 100%;
+  border-radius: 0px;
+  font-family: Arial, Helvetica, Sans-Serif;
+}
+#topmenu img {
+  width: 120px;
+  margin-left: 50px;
+}
+.right.item {
+  margin-right: 30px;
+}
+.ui.borderless.menu {
+  background-color: black;
+  height: 69px;
+  color: white;
+  margin-top: -13px;
+}
+.ui.menu .item {
+  color: #fcd510;
+  font-family: Arial, Helvetica, Sans-Serif;
+  font-size: 16px;
+}
+.ui.fluid.image {
+  margin-top: -15px;
+}
+.ui.big.image {
+  margin-left: auto;
+  margin-right: auto;
+}
